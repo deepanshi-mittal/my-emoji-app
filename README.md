@@ -1,7 +1,5 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+A web based emoji app.
+Thanks to scrimba for teaching basics for frontend development.
 
 Quick start:
 
